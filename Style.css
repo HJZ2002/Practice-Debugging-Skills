@@ -1,0 +1,25 @@
+
+.card{
+    background-color:lightblue;
+    padding: 20px;
+    margin: 50px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+}    
+.title {
+    color: darkblue;
+    font-size: 28px;
+  }
+
+.hidden {
+    display: none;
+  }
+ .button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
